@@ -1,0 +1,6 @@
+E:\unity\quark\Solid\SOLID-SRP_correcto\SOLID-SRP_correcto\obj\Debug\SOLID-SRP_correcto.csproj.CoreCompileInputs.cache
+E:\unity\quark\Solid\SOLID-SRP_correcto\SOLID-SRP_correcto\bin\Debug\SOLID-SRP_correcto.exe.config
+E:\unity\quark\Solid\SOLID-SRP_correcto\SOLID-SRP_correcto\bin\Debug\SOLID-SRP_correcto.exe
+E:\unity\quark\Solid\SOLID-SRP_correcto\SOLID-SRP_correcto\bin\Debug\SOLID-SRP_correcto.pdb
+E:\unity\quark\Solid\SOLID-SRP_correcto\SOLID-SRP_correcto\obj\Debug\SOLID-SRP_correcto.exe
+E:\unity\quark\Solid\SOLID-SRP_correcto\SOLID-SRP_correcto\obj\Debug\SOLID-SRP_correcto.pdb
